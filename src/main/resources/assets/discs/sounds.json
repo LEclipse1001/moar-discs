@@ -1,0 +1,226 @@
+{
+  "alive": {
+    "sounds": [
+      {
+        "name": "discs:alive",
+        "stream": true
+      }
+    ]
+  },
+  "brute": {
+    "sounds": [
+      {
+        "name": "discs:brute",
+        "stream": true
+      }
+    ]
+  },
+  "cascade": {
+    "sounds": [
+      {
+        "name": "discs:cascade",
+        "stream": true
+      }
+    ]
+  },
+  "comet": {
+    "sounds": [
+      {
+        "name": "discs:comet",
+        "stream": true
+      }
+    ]
+  },
+  "forest": {
+    "sounds": [
+      {
+        "name": "discs:forest",
+        "stream": true
+      }
+    ]
+  },
+  "gilded": {
+    "sounds": [
+      {
+        "name": "discs:gilded",
+        "stream": true
+      }
+    ]
+  },
+  "glide": {
+    "sounds": [
+      {
+        "name": "discs:glide",
+        "stream": true
+      }
+    ]
+  },
+  "guardian": {
+    "sounds": [
+      {
+        "name": "discs:guardian",
+        "stream": true
+      }
+    ]
+  },
+  "husk": {
+    "sounds": [
+      {
+        "name": "discs:husk",
+        "stream": true
+      }
+    ]
+  },
+  "lightning": {
+    "sounds": [
+      {
+        "name": "discs:lightning",
+        "stream": true
+      }
+    ]
+  },
+  "luminous": {
+    "sounds": [
+      {
+        "name": "discs:luminous",
+        "stream": true
+      }
+    ]
+  },
+  "northern_lights": {
+    "sounds": [
+      {
+        "name": "discs:northern_lights",
+        "stream": true
+      }
+    ]
+  },
+  "ochre": {
+    "sounds": [
+      {
+        "name": "discs:ochre",
+        "stream": true
+      }
+    ]
+  },
+  "overtune": {
+    "sounds": [
+      {
+        "name": "discs:overtune",
+        "stream": true
+      }
+    ]
+  },
+  "pumpkin": {
+    "sounds": [
+      {
+        "name": "discs:pumpkin",
+        "stream": true
+      }
+    ]
+  },
+  "raiders": {
+    "sounds": [
+      {
+        "name": "discs:raiders",
+        "stream": true
+      }
+    ]
+  },
+  "shrieker": {
+    "sounds": [
+      {
+        "name": "discs:shrieker",
+        "stream": true
+      }
+    ]
+  },
+  "shulker": {
+    "sounds": [
+      {
+        "name": "discs:shulker",
+        "stream": true
+      }
+    ]
+  },
+  "sleigh": {
+    "sounds": [
+      {
+        "name": "discs:sleigh",
+        "stream": true
+      }
+    ]
+  },
+  "snowstorm": {
+    "sounds": [
+      {
+        "name": "discs:snowstorm",
+        "stream": true
+      }
+    ]
+  },
+  "soulless": {
+    "sounds": [
+      {
+        "name": "discs:soulless",
+        "stream": true
+      }
+    ]
+  },
+  "storm": {
+    "sounds": [
+      {
+        "name": "discs:storm",
+        "stream": true
+      }
+    ]
+  },
+  "stride": {
+    "sounds": [
+      {
+        "name": "discs:stride",
+        "stream": true
+      }
+    ]
+  },
+  "the_ender_dragon": {
+    "sounds": [
+      {
+        "name": "discs:the_ender_dragon",
+        "stream": true
+      }
+    ]
+  },
+  "the_wither": {
+    "sounds": [
+      {
+        "name": "discs:the_wither",
+        "stream": true
+      }
+    ]
+  },
+  "tundra": {
+    "sounds": [
+      {
+        "name": "discs:tundra",
+        "stream": true
+      }
+    ]
+  },
+  "underscore": {
+    "sounds": [
+      {
+        "name": "discs:underscore",
+        "stream": true
+      }
+    ]
+  },
+  "warden_run": {
+    "sounds": [
+      {
+        "name": "discs:warden_run",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "values": [
+    "discs:music_disc_alive",
+    "discs:music_disc_cascade",
+    "discs:music_disc_comet",
+    "discs:music_disc_forest",
+    "discs:music_disc_gilded",
+    "discs:music_disc_glide",
+    "discs:music_disc_lightning",
+    "discs:music_disc_luminous",
+    "discs:music_disc_northern_lights",
+    "discs:music_disc_ochre",
+    "discs:music_disc_overtune",
+    "discs:music_disc_pumpkin",
+    "discs:music_disc_raiders",
+    "discs:music_disc_sleigh",
+    "discs:music_disc_snowstorm",
+    "discs:music_disc_storm",
+    "discs:music_disc_stride",
+    "discs:music_disc_tundra",
+    "discs:music_disc_underscore"
+  ]
+}

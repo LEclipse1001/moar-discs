@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "net.eclipse.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"DiscMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

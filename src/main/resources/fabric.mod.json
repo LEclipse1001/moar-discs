@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "discs",
+	"version": "${version}",
+	"name": "Moar Discs",
+	"description": "Adds multiple fan-made music discs into Minecraft,hopefully.",
+	"authors": [
+		"Eclipse_L_ §oOwner§r",
+		"T_en_M §oMusic Artist§r"
+	],
+	"contact": {
+		"sources": "https://github.com/FabricMC/fabric-example-mod",
+		"discord": "https://discord.gg/9yWxs2aGUT"
+	},
+	"license": "MIT",
+	"icon": "assets/discs/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.eclipse.Discs"
+		],
+		"client": [
+			"net.eclipse.DiscsClient"
+		],
+		"fabric-datagen": [
+			"net.eclipse.DiscsDataGenerator"
+		]
+	},
+	"mixins": [
+		"discs.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.22",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
